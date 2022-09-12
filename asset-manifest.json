@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GetaboutU/static/css/main.a8d0ed35.css",
+    "main.js": "/GetaboutU/static/js/main.3315072a.js",
+    "static/js/787.d30a8594.chunk.js": "/GetaboutU/static/js/787.d30a8594.chunk.js",
+    "static/media/giphy.gif": "/GetaboutU/static/media/giphy.8808249ea96edca9118b.gif",
+    "static/media/globe.png": "/GetaboutU/static/media/globe.b89886272af4b401216c.png",
+    "index.html": "/GetaboutU/index.html",
+    "main.a8d0ed35.css.map": "/GetaboutU/static/css/main.a8d0ed35.css.map",
+    "main.3315072a.js.map": "/GetaboutU/static/js/main.3315072a.js.map",
+    "787.d30a8594.chunk.js.map": "/GetaboutU/static/js/787.d30a8594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8d0ed35.css",
+    "static/js/main.3315072a.js"
+  ]
+}
